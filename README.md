@@ -1,3 +1,1 @@
-# SuperSimpleHTTPServer
-Super Simple C# HTTP Server
-
+Simple C# HTTP Server
